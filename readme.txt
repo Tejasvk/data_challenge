@@ -1,3 +1,6 @@
+This repository contains code to solve an old Multiple Myeloma DREAM Challenge (https://www.synapse.org/#!Synapse:syn6187098/wiki/401884).
+
+Read the challenge statement in the document "Data challenge.pdf".
 
 1) challenge_code.ipynb: Includes the code for transformations and model training.  Run all cells from this notebook first to generate the model pickle files and plots. 
 
